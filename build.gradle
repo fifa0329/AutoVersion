@@ -12,8 +12,11 @@ buildscript {
 
 
 
-        classpath 'com.nillith.android:autoversion:1.2.0'
-        // classpath 'com.com.nillith.android.tools.build:autoversion' // local build test
+//        classpath 'com.nillith.android:autoversion:1.2.0'
+
+
+
+         classpath 'com.com.nillith.android.tools.build:autoversion:1.2.0' // local build test
 
         // NOTE: Do not place your application dependencies here; they belong
         // in the individual module build.gradle files
